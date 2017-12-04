@@ -32,6 +32,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="BinaryTree.cpp" />
+		<Unit filename="BinaryTree.h" />
+		<Unit filename="Node.cpp" />
+		<Unit filename="Node.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

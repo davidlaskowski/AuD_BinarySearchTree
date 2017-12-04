@@ -1,5 +1,6 @@
 #ifndef BINARYTREE_H_INCLUDED
 #define BINARYTREE_H_INCLUDED
+#include "Node.h"
 
 
 class BinarySearchTree
